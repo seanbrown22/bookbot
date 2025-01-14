@@ -26,4 +26,7 @@ def main():
         numbers=sd[letters]
         print(f"{letters}: {numbers}")
 
+    print("--- End of report ---")
+    print()
+
 main()
